@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kantharajyadav
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning System design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
